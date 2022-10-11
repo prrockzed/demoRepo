@@ -1,2 +1,4 @@
-Hi! i am learning git.
-My name is Priyanshu Ranjan.
+Hi! My name is Priyanshu Ranjan.
+I am learning Git.
+I am currently doing my Bachelor's in Physics from IIT Kharagpur.
+A computer geek😁.
